@@ -17,6 +17,13 @@
 
 [react/15.3.2: react-dom-server.js](https://cdnjs.com/libraries/react/15.3.2)
 
+> compared images:
+![React 13.3(JSXTransformer.js).png](./images/React 13.3(JSXTransformer.js).png)
+
+![React 14.1(react-dom.js).png](./images/React 14.1(react-dom.js).png)
+
+![React 15.3(react-dom-server.js).png](./images/React 15.3(react-dom-server.js).png)
+
 
 ## CDN
 ```js
