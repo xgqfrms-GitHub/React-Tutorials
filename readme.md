@@ -2,7 +2,7 @@
 
 > Related Tutorials Write your own awesome web development tutorials for the libraries on CDNJS! 
 
-[https://github.com/xgqfrms-GitHub/tutorials](https://github.com/xgqfrms-GitHub/tutorials)
+[https://github.com/xgqfrms-GitHub/React-Tutorials](https://github.com/xgqfrms-GitHub/React-Tutorials)
 
 ===
 ===
