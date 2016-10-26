@@ -9,7 +9,7 @@
 
 # React CDN 
 
-> **(Old version && New version)**
+> **(Old version && New version)**  
 
 [react/0.13.3: JSXTransformer.js](https://cdnjs.com/libraries/react/0.13.3)
 
@@ -17,7 +17,8 @@
 
 [react/15.3.2: react-dom-server.js](https://cdnjs.com/libraries/react/15.3.2)
 
-> compared images:
+> # compared images:  
+
 ![React 13.3(JSXTransformer.js).png](./images/React 13.3(JSXTransformer.js).png)
 
 ![React 14.1(react-dom.js).png](./images/React 14.1(react-dom.js).png)
@@ -26,6 +27,7 @@
 
 
 ## CDN
+
 ```js
 <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.13.3/JSXTransformer.js"></script>
 
@@ -36,6 +38,7 @@
 ``` 
 
 ## SRI
+
 ```html
 <script src="https://cdnjs.cloudflare.com/ajax/libs/react/0.13.3/JSXTransformer.js" integrity="sha256-MkTacBvNGO5pU06MeUchxYJwIK/4JrIGyEeINOmKLkM=" crossorigin="anonymous"></script>
 
